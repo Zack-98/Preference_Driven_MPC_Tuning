@@ -10,4 +10,4 @@ To perform optimization with the standard GLIS method, [`glis.m`](/glis.m) is ut
 
 The algorithm initialization is handled by [`glis_init.m`](/glis_init.m).
 
-The three directories - [`CSTR`](/CSTR), [`LKOA`](/LKOA), and [`PenCart`](/PenCart) - contain the scenario-specific simulation code. They cover autonomous driving functions like obstacle avoidance and lane keeping, state switching for a continuous stirred tank reactor (CSTR), and controlling an inverted pendulum on a cart system, respectively.
+The three directories - [`CSTR`](/CSTR), [`LKOA`](/LKOA), and [`PenCart`](/PenCart) - contain the scenario-specific simulation code. They cover obstacle avoidance and lane keeping in autonomous driving, state switching for a continuous stirred tank reactor (CSTR), and controlling an inverted pendulum on a cart system, respectively.
